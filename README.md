@@ -2,7 +2,7 @@
 
 A Salesforce-native solution designed to streamline technical, translation, and hazard support for field technicians. This project automates the creation of dedicated **Slack Support Channels** directly from a **Work Order** record to bridge the gap between the field and the back office.
 
-📺 [https://salesforce.enterprise.slack.com/files/U029AQTEC0M/F0AEYM4L2R0/screenshare_-_2026-02-13_2_52_29_pm.mp4]|(Demo Recording) (Salesforce-internal)
+📺 [Demo Recording](https://salesforce.enterprise.slack.com/files/U029AQTEC0M/F0AEYM4L2R0/screenshare_-_2026-02-13_2_52_29_pm.mp4) (Salesforce-internal)
 
 ## 🚀 Features
 
